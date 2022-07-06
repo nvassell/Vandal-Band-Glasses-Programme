@@ -1,2 +1,2 @@
-# UIdahoBandGlassesProgramme
-Program used for reading/writing University of Idaho band glasses formations!
+# Vandal Band Glasses Programme (VBGP)
+Program used for creating/updating custom University of Idaho band glasses formations!
